@@ -8,7 +8,7 @@ const  DB_URI="mongodb+srv://gahavay527:cpkLos5RoU5V3jHr@cluster0.dlalm.mongodb.
 //const API = "http://localhost:3000/api"
 
 
- const API="https://stocksmart-khaki.vercel.app"
+ const API="https://stocksmart-khaki.vercel.app/api"
 
 
     CLOUDINARY_CLOUD_NAME = "dxhzy8hjp",
