@@ -1,8 +1,14 @@
- const  DB_URI="mongodb://127.0.0.1:27017/stocksmart"
+ //const  DB_URI="mongodb://127.0.0.1:27017/stocksmart"
+
+//cpkLos5RoU5V3jHr
 
 
+const  DB_URI="mongodb+srv://gahavay527:cpkLos5RoU5V3jHr@cluster0.dlalm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
-const API = "http://localhost:3000/api"
+//const API = "http://localhost:3000/api"
+
+
+ const API="https://stocksmart-khaki.vercel.app"
 
 
     CLOUDINARY_CLOUD_NAME = "dxhzy8hjp",
@@ -16,6 +22,11 @@ const API = "http://localhost:3000/api"
 NEXTAUTH_SECRET = "YGHIUGH78YT845U7YTH45IU796YH4658"
 
 CLIENT_URL = "http://localhost:3000"
+
+
+
+
+
 GOOGLE_API_KEY ="AIzaSyBnxrzkyA2WtkBOrvM0HdsD9GyCwX1YZQo"
 
 
